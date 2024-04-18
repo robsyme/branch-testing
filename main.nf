@@ -1,1 +1,1 @@
-log.info "On master branch"
+log.info "On foo branch"
